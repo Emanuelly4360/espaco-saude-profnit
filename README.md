@@ -17,10 +17,6 @@ O Aplicativo de Qualidade de Vida no Trabalho (QVT) foi desenvolvido para oferec
 4. Agende consultas e utilize os recursos oferecidos pelo Núcleo de Saúde da ALE-RR.
 5. Acesse os artigos sobre saúde e bem-estar disponíveis no aplicativo.
 
-## Contribuição
-
-Este projeto é de código aberto e aceita contribuições da comunidade de desenvolvedores. Se desejar contribuir, siga as instruções do arquivo CONTRIBUTING.md.
-
 ## Contato
 
 Para mais informações sobre o aplicativo, entre em contato através do e-mail: [emanuellymedeiros@live.com](mailto:emanuellymedeiros@live.com).
